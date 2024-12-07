@@ -4,3 +4,7 @@ body{
     display: grid;
     place-items: center;
 }
+
+.name :hover{
+    cursor: pointer;
+}

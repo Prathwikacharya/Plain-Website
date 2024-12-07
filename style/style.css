@@ -1,0 +1,6 @@
+body{
+    background-color: navy;
+    color: aliceblue;
+    display: grid;
+    place-items: center;
+}
